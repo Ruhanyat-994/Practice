@@ -1,0 +1,11 @@
+s= set()
+
+s.add(18)
+s.add(input("ENter your number:"))
+s.add(input("ENter your number:"))
+s.add(input("ENter your number:"))
+s.add(input("ENter your number:"))
+s.add(input("ENter your number:"))
+s.add(input("ENter your number:"))
+s.add(input("ENter your number:"))
+print(s)
